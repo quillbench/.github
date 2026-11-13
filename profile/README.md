@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quillbench/quillbench/main/docs/logo.svg" width="110" alt="QuillBench logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quillbench/.github/main/profile/assets/quillbench-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/quillbench/.github/main/profile/assets/quillbench-logo-light.svg" width="460" alt="QuillBench logo">
+  </picture>
 </p>
-
-<h1 align="center">QuillBench</h1>
 
 <p align="center">
   <b>Build benchmark datasets with human annotators.</b><br>
